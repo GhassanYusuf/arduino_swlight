@@ -1,0 +1,13 @@
+# Syntax Colouring Map For btnWithLight
+
+# Data types (KEYWORD1)
+btnWithLight	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+read	KEYWORD2
+
+turnOn	KEYWORD2
+turnOff	KEYWORD2
+blink	KEYWORD2
